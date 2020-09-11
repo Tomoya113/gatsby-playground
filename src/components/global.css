@@ -1,0 +1,13 @@
+html {
+  font-size: 62.5%;
+  overflow: auto;
+}
+
+body {
+  font-family: 'Noto Sans JP';
+}
+
+html,
+body {
+  height: 100%;
+}
